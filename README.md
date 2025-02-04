@@ -9,6 +9,6 @@ technologies.
 
 <h2> Screenshot </h2>
 
-![](screen-1.gif)
+![](screen.gif)
 
 # emaartech-building bs
